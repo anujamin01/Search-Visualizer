@@ -1,7 +1,4 @@
 # Search-Visualizer
-Starter code credit: Tech with Tim
-
-
 
 Initial Commit
 Game is ran through pygame where instructions and we use the Euclidean distance to compute the heuristic function
